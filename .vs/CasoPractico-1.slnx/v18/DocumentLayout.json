@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraViewModel.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:33:57.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:33:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T01:32:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buscar.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva\\Buscar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T01:32:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Program.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:31:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:31:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaBussines.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Bussines\\ReservaBussines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:30:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:30:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:29:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Repositories\\IReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:29:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\septimo cuatrimestre\\CasoPractico-1\\WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs",
+              "RelativeToolTip": "WebApplicationAPP\\WebApplicationAPP\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:27:25.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

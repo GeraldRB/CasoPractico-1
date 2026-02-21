@@ -1,0 +1,12 @@
+<h2>Buscar Reserva</h2>
+
+<form method="post">
+    <label>Ingrese Id Reserva:</label>
+    <input type="number" name="id" required />
+    <button type="submit">Buscar</button>
+</form>
+
+@if(ViewBag.Mensaje != null)
+{
+    <p style="color:red">@ViewBag.Mensaje</p>
+}
