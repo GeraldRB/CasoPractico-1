@@ -12,6 +12,8 @@ namespace WebApplicationAPP.Data
         public DbSet<Persona> Persona { get; set; }
         public DbSet<Clientes> Clientes { get; set; }
         public DbSet<Inventario> Inventario { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
+
         //public DbSet<WebApplicationAPP.Models.Producto> Productos { get; set; }
     }
 }
