@@ -1,0 +1,39 @@
+@model List<WebApplicationAPP.Models.Reserva>
+
+<h2>Historial de Reservas</h2>
+
+<form method="get">
+    <label>Filtrar por IdServicio:</label>
+    <input type="number" name="idServicio" />
+    <button type="submit">Buscar</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Telefono</th>
+            <th>Correo</th>
+            <th>Identificacion</th>
+            <th>Monto Total</th>
+            <th>Fecha Servicio</th>
+            <th>Fecha Registro</th>
+        </tr>
+    </thead>
+
+    <tbody>
+@foreach(var item in Model)
+{
+        <tr>
+            <td>@item.NombreDelAsociado</td>
+            <td>@item.Telefono</td>
+            <td>@item.Correo</td>
+            <td>@item.Identificacion</td>
+            <td>@item.MontoTotal</td>
+            <td>@item.FechaDelServicio</td>
+            <td>@item.FechaDeRegistro</td>
+        </tr>
+}
+    </tbody>
+</table>
+    

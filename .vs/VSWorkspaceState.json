@@ -4,13 +4,13 @@
     "\\WebApplicationAPP",
     "\\WebApplicationAPP\\WebApplicationAPP",
     "\\WebApplicationAPP\\WebApplicationAPP\\bin",
-    "\\WebApplicationAPP\\WebApplicationAPP\\bin\\Debug",
     "\\WebApplicationAPP\\WebApplicationAPP\\bin\\Release",
     "\\WebApplicationAPP\\WebApplicationAPP\\Controllers",
     "\\WebApplicationAPP\\WebApplicationAPP\\Data",
     "\\WebApplicationAPP\\WebApplicationAPP\\Views",
-    "\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva"
+    "\\WebApplicationAPP\\WebApplicationAPP\\Views\\Reserva",
+    "\\WebApplicationAPP\\WebApplicationAPP\\Views\\ReservaAdmin"
   ],
-  "SelectedNode": "\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
