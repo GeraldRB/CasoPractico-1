@@ -31,6 +31,10 @@ builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 //Inventario
 builder.Services.AddScoped<InventarioBussiness>();
 builder.Services.AddScoped<IInventarioRepository, InventarioRepository>();
+
+//Servicios
+builder.Services.AddScoped<ServiciosBussiness>();
+builder.Services.AddScoped<IServiciosRepository, ServiciosRepository>();
 //Repositorio
 //CapaBussine
 

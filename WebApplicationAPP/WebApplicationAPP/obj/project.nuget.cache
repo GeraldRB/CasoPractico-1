@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTcPcgocsXI=",
+  "dgSpecHash": "++mfYs0VkIA=",
   "success": true,
-  "projectFilePath": "E:\\C+\\Práctica Programada # 2\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
+  "projectFilePath": "E:\\Git\\Repositorios\\Caso Practico #1\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",

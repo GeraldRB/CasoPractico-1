@@ -1477,11 +1477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C+\\Práctica Programada # 2\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
+      "projectUniqueName": "E:\\Git\\Repositorios\\Caso Practico #1\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
       "projectName": "WebApplicationAPP",
-      "projectPath": "E:\\C+\\Práctica Programada # 2\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
+      "projectPath": "E:\\Git\\Repositorios\\Caso Practico #1\\WebApplicationAPP\\WebApplicationAPP\\WebApplicationAPP.csproj",
       "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-      "outputPath": "E:\\C+\\Práctica Programada # 2\\WebApplicationAPP\\WebApplicationAPP\\obj\\",
+      "outputPath": "E:\\Git\\Repositorios\\Caso Practico #1\\WebApplicationAPP\\WebApplicationAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
